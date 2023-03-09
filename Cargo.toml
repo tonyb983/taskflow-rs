@@ -1,5 +1,5 @@
 [package]
-name = "task-flow"
+name = "taskflow-rs"
 version = "0.1.0"
 edition = "2021"
 
